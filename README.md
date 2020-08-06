@@ -8,4 +8,7 @@ A Food App Sample in react native.
 `react-native run-android` or `npm run android`
 
 ## iOS
+`cd ios`
+`pod install`
+`cd ..`
 `react-native run-ios` or `npm run ios`
